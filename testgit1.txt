@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 test conflict
 test pull request
-=======
+
 aloalaoalao
 test conflict
->>>>>>> b0b2b4efa0a61cdbd409e997555d5ba299b18965
+
