@@ -1,1 +1,2 @@
 đây là commit của thịnh sửa chi đó
+đây là commit của thịnh dep trai
