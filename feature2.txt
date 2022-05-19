@@ -1,6 +1,7 @@
-<<<<<<< HEAD
+
 đây là tính năng 2
 đã xong tính năng 2
-=======
+
 đây là tính năng 2
->>>>>>> ba65a00 (add feature2)
+
+
